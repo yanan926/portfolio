@@ -303,6 +303,12 @@ section {
   text-align: center;
 }
 
+.project-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .section-container {
   gap: 4rem;
   height: 80%;
@@ -433,3 +439,5 @@ footer p {
 img.profile-img {
   border-radius: 50%;
 }
+
+
